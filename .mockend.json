@@ -1,22 +1,4 @@
 {
-   "ECAAramp": {
-   "A01checked" : { "string": {} },
-   "A02checked" : { "string": {} },
-   "A03checked" : { "string": {} },
-   "A04checked" : { "string": {} },
-   "A05checked" : { "string": {} },
-   "A06checked" : { "string": {} },
-   "A07checked" : { "string": {} },
-   "A08checked" : { "string": {} },
-   "A09checked" : { "string": {} },
-   "A10checked" : { "string": {} },
-   "A11checked" : { "string": {} },
-   "A12checked" : { "string": {} },
-   "A13checked" : { "string": {} },
-   "A14checked" : { "string": {} },
-   "A15checked" : { "string": {} }
- },  
-
   "Post": {
     "title": { "string": {} },
     "comments": {
