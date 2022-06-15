@@ -1,4 +1,23 @@
 {
+   "ECAAramp": {
+   "A01checked" : { "bool": {} },
+   "A02checked" : { "bool": {} },
+   "A03checked" : { "bool": {} },
+   "A04checked" : { "bool": {} },
+   "A05checked" : { "bool": {} },
+   "A06checked" : { "bool": {} },
+   "A07checked" : { "bool": {} },
+   "A08checked" : { "bool": {} },
+   "A09checked" : { "bool": {} },
+   "A10checked" : { "bool": {} },
+   "A11checked" : { "bool": {} },
+   "A12checked" : { "bool": {} },
+   "A12checked" : { "bool": {} },
+   "A13checked" : { "bool": {} },
+   "A14checked" : { "bool": {} },
+   "A15checked" : { "bool": {} }
+ },  
+
   "Post": {
     "title": { "string": {} },
     "comments": {
